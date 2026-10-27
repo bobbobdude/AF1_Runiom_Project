@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ESP32-S3-MINI-1-N8") (type "KiCad") (uri "${KIPRJMOD}/ModelsAndFootprintsLib/ESP32-S3-MINI-1-N8/ESP32-S3-MINI-1-N8.kicad_sym") (options "") (descr ""))
+	(lib (name "ENS210_LQFM") (type "KiCad") (uri "${KIPRJMOD}/ModelsAndFootprintsLib/ENS210_LQFM/KiCADv6/2026-10-27_08-42-06.kicad_sym") (options "") (descr ""))
+	(lib (name "COM_16347") (type "KiCad") (uri "${KIPRJMOD}/ModelsAndFootprintsLib/COM_16347/KiCADv6/2026-10-27_08-26-25.kicad_sym") (options "") (descr ""))
+)

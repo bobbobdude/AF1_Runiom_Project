@@ -665,7 +665,7 @@
         "uuid": "afce35cb-236d-4e62-a028-55190f12758c"
       }
     ],
-    "used_designators": "#PWR1-13,C1-8,D2,J1,R1-9,RESET1,SW1-3,U1",
+    "used_designators": "#PWR1-13,BOOT1,C1-8,D2,J1,JUSB1,R1-9,RESET1,SW1-3,U1",
     "variants": []
   },
   "sheets": [

@@ -9906,7 +9906,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a134de0f-1c39-4cd4-a2e0-c552dde6d82f")
-		(property "Reference" "RESET"
+		(property "Reference" "RESET1"
 			(at 113.03 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9974,7 +9974,7 @@
 		(instances
 			(project "esp32 pcb"
 				(path "/afce35cb-236d-4e62-a028-55190f12758c"
-					(reference "RESET")
+					(reference "RESET1")
 					(unit 1)
 				)
 			)
@@ -10234,7 +10234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0043806-0f01-4914-97cc-35a5b1c0817a")
-		(property "Reference" "BOOT"
+		(property "Reference" "BOOT1"
 			(at 113.03 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10302,7 +10302,7 @@
 		(instances
 			(project "esp32 pcb"
 				(path "/afce35cb-236d-4e62-a028-55190f12758c"
-					(reference "BOOT")
+					(reference "BOOT1")
 					(unit 1)
 				)
 			)
@@ -10506,7 +10506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e038bf16-1968-44c2-92fe-7e582e028286")
-		(property "Reference" "JUSB"
+		(property "Reference" "JUSB1"
 			(at 35.56 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10613,7 +10613,7 @@
 		(instances
 			(project "esp32 pcb"
 				(path "/afce35cb-236d-4e62-a028-55190f12758c"
-					(reference "JUSB")
+					(reference "JUSB1")
 					(unit 1)
 				)
 			)
