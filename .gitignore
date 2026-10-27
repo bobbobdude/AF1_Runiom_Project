@@ -1,0 +1,29 @@
+# KiCad local history (its own Git repo)
+.history/
+
+# KiCad backup files
+*-bak
+*.bak
+
+# KiCad auto-archive (folder is named <project>-backups/)
+*-backups/
+
+# KiCad autosave files
+_autosave-*
+\#auto_saved_files#
+
+# Lock files
+*.lck
+
+# Locally-regenerated footprint cache
+fp-info-cache
+
+# Per-user UI state (open layers, zoom, etc.)
+*.kicad_prl
+
+# Generated manufacturing outputs
+gerbers/
+output/
+fabrication/
+jlcpcb/
+*.zip
